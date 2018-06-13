@@ -3,8 +3,17 @@
   "description": "A simple Angular Loading Components",
   "version": "0.0.2",
   "author": "KarinP",
+  "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
     "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "homepage": "https://github.com/karinpang/ngx-simple-loading#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karinpang/ngx-simple-loading.git"
+  },
+  "bugs": {
+    "url": "https://github.com/karinpang/ngx-simple-loading/issues"
   }
 }
