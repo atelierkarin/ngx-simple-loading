@@ -8,12 +8,12 @@
     "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
     "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
   },
-  "homepage": "https://github.com/karinpang/ngx-simple-loading#readme",
+  "homepage": "https://github.com/atelierkarin/ngx-simple-loading#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karinpang/ngx-simple-loading.git"
+    "url": "git+https://github.com/atelierkarin/ngx-simple-loading.git"
   },
   "bugs": {
-    "url": "https://github.com/karinpang/ngx-simple-loading/issues"
+    "url": "https://github.com/atelierkarin/ngx-simple-loading/issues"
   }
 }
