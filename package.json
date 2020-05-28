@@ -1,19 +1,22 @@
 {
   "name": "ngx-simple-loading",
   "description": "A simple Angular Loading Components",
-  "version": "0.0.3",
+  "version": "0.1.1",
   "author": "KarinP",
   "license": "MIT",
   "peerDependencies": {
-    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
-    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+    "@angular/common": "^9.1.9",
+    "@angular/core": "^9.1.9"
   },
-  "homepage": "https://github.com/karinpang/ngx-simple-loading#readme",
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "homepage": "https://github.com/atelierkarin/ngx-simple-loading#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karinpang/ngx-simple-loading.git"
+    "url": "git+https://github.com/atelierkarin/ngx-simple-loading.git"
   },
   "bugs": {
-    "url": "https://github.com/karinpang/ngx-simple-loading/issues"
+    "url": "https://github.com/atelierkarin/ngx-simple-loading/issues"
   }
 }
